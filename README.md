@@ -26,7 +26,7 @@ print(result)
 
 
 ### OUTPUT:
-![output](/distance%20between%20two%20points.png)
+![image](https://github.com/STANLEY-13/DISTANCE-BETWEEN-TWO-POINTS/assets/148198816/501d46c2-3d28-4afd-9e60-68d5a7544e8a)
 
 ### RESULT:
 Passed all test
